@@ -1,0 +1,1 @@
+# Dither's Personal NixOS Config
